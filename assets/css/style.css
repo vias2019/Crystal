@@ -1,0 +1,86 @@
+body {
+    background-image: url("../../assets/images/green.png");
+    font-family: "Times New Roman", Times, serif;
+    margin: 10px;
+}
+h1 {
+    font-weight: 200;
+    font-size: 35px;
+    font-weight: bold;
+    line-height: 2em;
+    background-color: rgb(221, 98, 49);
+    width: fit-content;
+    color: white;
+    padding: 15px;
+}
+section {
+    background-color: rgb(59, 230, 144);
+    color: green;
+    font-weight: bold;
+    max-width: 500px;
+    padding: 15px;
+}
+h2 {
+    font-size: 20px;
+}
+.random-wins-losses{
+    position: relative;
+}
+.randomNumber {
+    background-color: rgb(98, 167, 98);
+    color: #400080;
+    width: 200px;
+    height: 70px;
+    position: absolute;
+    left: 0;
+    padding: 5px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 15px;
+    font-size: 40px;
+}
+.winsAndLosses {
+    background-color: #00ffff;
+    width: 70px;
+    height: 80px;
+    position: absolute;
+    left: 220px;
+    padding: 5px;
+    font-weight: bold;
+}
+.message {
+    float: left;
+    color: red;
+}
+#wins {
+    float: left;
+}
+#winsNumber {
+    float: left;
+}
+#losses {
+    float: left;
+}
+#lossesNumber {
+    float: left;
+}
+img{
+    padding: 5px;
+}
+.yourScore {
+    background-color: #008080;
+    padding: 5px;
+    width: 200px;
+    color: white;
+}
+.score {
+    width: 200px;
+    height: 70px;
+    padding: 5px;
+    padding-top: 15px;
+    background-color: #008080;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    font-size: 40px;
+}
