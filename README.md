@@ -18,3 +18,4 @@ Each time when the game starts, the game will change the values of each crystal.
 
 Good luck!
 
+Link to the site: https://vias2019.github.io/Crystal/ 
